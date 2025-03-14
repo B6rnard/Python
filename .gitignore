@@ -24,3 +24,5 @@
 /Tests.py
 /thing.py
 /things.py
+/__pycache__
+/shopping_list.py

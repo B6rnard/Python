@@ -1,4 +1,4 @@
-from shopping_list2 import ShoppingList
+from shopping_list import ShoppingList
 from price_list import PriceList
 
 shopping_list = ShoppingList()
